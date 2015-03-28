@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/issjj7/AndroidStudioProjects/TabProj/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/issjj7/AndroidStudioProjects/TabProj/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-0bcb79dfe0f7f00c072e45ab0ee79612368f22bf.jar" />
+    </item>
+    <item
+        jar="/home/issjj7/Downloads/adt/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/issjj7/AndroidStudioProjects/TabProj/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-031e16dcbc4257e62093979135c21f65ab78e701.jar" />
+    </item>
+    <item
+        jar="/home/issjj7/AndroidStudioProjects/TabProj/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/issjj7/AndroidStudioProjects/TabProj/app/build/intermediates/pre-dexed/debug/classes-1c2620c7b518cf352eb8b6728835d105ed27d7c9.jar" />
+    </item>
+    <item
+        jar="/home/issjj7/AndroidStudioProjects/TabProj/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/issjj7/AndroidStudioProjects/TabProj/app/build/intermediates/pre-dexed/debug/classes-238ed4a6d4dad6f3bfb873a4859b8e2d8336fb5c.jar" />
+    </item>
+
+</items>
